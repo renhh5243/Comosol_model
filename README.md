@@ -1,4 +1,4 @@
-# Comosol_model
+# Comsol_model
 
 What is this repository for?
 Comsol-model is a numerical model for CO2 non-isothermal flow process in porous media based on the commercial software COMSOL Multiphysics 6.2.
